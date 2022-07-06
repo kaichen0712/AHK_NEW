@@ -16,12 +16,6 @@
 
 `pip install -r requirements.txt`
 
-`pip install --upgrade azure-cognitiveservices-speech`
-
-`pip install srt`
-
-`pip install SpeechRecognition`
-
 # 指令
 
 語音辨識
