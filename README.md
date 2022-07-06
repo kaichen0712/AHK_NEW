@@ -1,4 +1,4 @@
-# AZURE-AHK
+# AHK_NEW
 
 請先執行TESTSPEECH內的main.py檔，輸入API KEY後再輸入region
 
@@ -11,7 +11,7 @@
 
 
 
-#模組下載
+# 模組下載
 
 
 `pip install -r requirements.txt`
@@ -22,4 +22,12 @@
 
 `pip install SpeechRecognition`
 
-# AHK_NEW
+# 指令
+
+語音辨識
+
+`main.py -v`
+
+檔案辨識
+`main.py -f [檔案名稱]`
+
