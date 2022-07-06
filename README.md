@@ -2,7 +2,7 @@
 
 請先執行TESTSPEECH內的main.py檔，輸入API KEY後再輸入region
 
-執行Adventure內的C.exe前請先將testspeech整個資料夾移到別的位置並修改Adventure內BAT檔CD後的檔案位置
+執行Adventure內的C.exe前請先將testspeech資料的位置更新至Adventure內.BAT檔CD後
 
 
 # 開發環境
