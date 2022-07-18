@@ -9,7 +9,8 @@
 
 請先執行testspeechweifang資料夾內的main.py檔，輸入API KEY後再輸入region
 
-接著執行Adventure內的C.exe前請先將testspeechweifang資料的位置更新至Adventure內.bat檔CD後(.bat檔可用記事本修改)
+接著執行Adventure內的C.exe前請先將testspeechweifang資料的位置更新至Adventure內.bat檔CD後
+(.bat檔可按滑鼠右鍵以記事本開啟並做修改)
 
 
 # 開發環境
